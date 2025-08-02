@@ -34,7 +34,7 @@ FoodPoint offers users a fast and engaging way to explore restaurants and food c
 
 | Home Screen | Register Screen |
 |-------------|-----------------|
-| ![Home](https://raw.githubusercontent.com/your-username/foodpoint-images/main/home.png) | ![Register](https://raw.githubusercontent.com/your-username/foodpoint-images/main/register.png) |
+| ![Home](https://github.com/oshcode/FoodPoint/blob/main/FoodPointHome.png?raw=true) | ![Register](https://github.com/oshcode/FoodPoint/blob/main/Register.png?raw=true) |
 
 > ✨ **First impressions matter** — FoodPoint starts with a bold CTA and clean onboarding:
 - “Get Started” prompt leads right into sign-up.
@@ -59,7 +59,7 @@ FoodPoint offers users a fast and engaging way to explore restaurants and food c
 
 | Map & Info |
 |------------|
-| ![MapInfo](https://raw.githubusercontent.com/your-username/foodpoint-images/main/map.png) |
+| ![MapInfo](https://github.com/oshcode/FoodPoint/blob/main/Directions.png?raw=true) |
 
 - View restaurant details, menu, and distance instantly.
 - Call, hours, and basic info in one spot.
@@ -71,7 +71,7 @@ FoodPoint offers users a fast and engaging way to explore restaurants and food c
 
 | Menu Screen | Checkout Screen |
 |-------------|-----------------|
-| ![Menu](https://raw.githubusercontent.com/your-username/foodpoint-images/main/menu.png) | ![Checkout](https://raw.githubusercontent.com/your-username/foodpoint-images/main/checkout.png) |
+| ![Menu](https://github.com/oshcode/FoodPoint/blob/main/Menu.png?raw=true) | ![Checkout](https://github.com/oshcode/FoodPoint/blob/main/Checkout.png?raw=true) |
 
 - Add-to-cart, notes, and quantity controls built in.
 - Streamlined mobile checkout flow.
@@ -90,11 +90,4 @@ FoodPoint offers users a fast and engaging way to explore restaurants and food c
 
 ---
 
-## 🌐 Links
-
-- [Live Website](https://yourwebsite.com)  
-- [Hosted Images Repo](https://github.com/your-username/foodpoint-images)  
-- [Demo Video (Optional)](https://youtube.com/yourdemo)
-
----
 
