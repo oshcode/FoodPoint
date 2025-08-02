@@ -47,7 +47,7 @@ FoodPoint offers users a fast and engaging way to explore restaurants and food c
 
 | Content 1 | Content 2 |
 |-----------|-----------|
-| ![Content1](https://raw.githubusercontent.com/your-username/foodpoint-images/main/content1.png) | ![Content2](https://raw.githubusercontent.com/your-username/foodpoint-images/main/content2.png) |
+| ![Content1](https://github.com/oshcode/FoodPoint/blob/main/Content1.png?raw=true) | ![Content2](https://github.com/oshcode/FoodPoint/blob/main/Content2.png?raw=true) |
 
 - Swipeable feed of food videos and photos.
 - Double-tap to like, tap to view — intuitive interactions.
